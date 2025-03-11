@@ -3,7 +3,7 @@
 A simple **Tic-Tac-Toe** game built with **HTML, CSS, and JavaScript**.
 
 ## 🎮 Live Demo
-[Play Here](#) *(Add your live link)*
+[Play Here](https://rohitkhot1718.github.io/tic-tac-toe/)
 
 ## 📌 Features
 - 3x3 grid for two players
